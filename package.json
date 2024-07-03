@@ -1,0 +1,7 @@
+{
+  "name": "com.geroigorodskoyzastroiki.polygoncollideranimator",
+  "version": "1.0.0",
+  "displayName": "Polygon Collider Animator",
+  "description": "A small script that allows you to animate Polygon Collider 2D.
+  It works with Polygon Collider 2D and Sprite Renderer."
+}

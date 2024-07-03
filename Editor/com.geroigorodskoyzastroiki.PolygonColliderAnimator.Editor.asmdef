@@ -1,0 +1,16 @@
+{
+    "name": "com.geroigorodskoyzastroiki.PolygonColliderAnimator.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c63f2374bf916424b97d932934e728f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
